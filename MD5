@@ -1,4 +1,4 @@
-9d082ed98f950e5a02140f0940b9701b *DESCRIPTION
+cd0cd7fc49ba6cd2fb550639170b5660 *DESCRIPTION
 8af62a5f04e419b10583ee664fac5732 *NAMESPACE
 847a0e2a40831d7cdf543f823437c84d *NEWS.md
 1953cfee988581be75d8e0cce463208e *R/RcppExports.R
@@ -9,7 +9,7 @@ a9afd0e7a7877143372b4d65dd51422b *R/dgumbel.R
 55f388f4701b0fef4baa025c40d8286f *R/rgumbel.R
 729925b9f7e926078c269a9ddc929a6b *README.md
 5b88e99842106aa371bc56a7f9fce335 *inst/include/adept/adept.h
-ddfcf7c37eecfc415a2bfcc157184409 *inst/include/adept/adept_source.h
+3a3f5130dea7c83f58f1b71a9b4d07e3 *inst/include/adept/adept_source.h
 770d6e4ca6fb72d1ae3fced966192a83 *inst/include/dgumbel.hpp
 b4485a42ab48fa065fa54c8ba5a9245a *man/dgumbel-package.Rd
 8c0d6f38f8a4c4cb509b43ac8ded03ed *src/Makevars
